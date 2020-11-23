@@ -1,0 +1,13 @@
+th{
+    font-weight: 800;
+    background-color: #FE642E;
+}
+
+table{
+    font-family:sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: #FE642E
+
+}
